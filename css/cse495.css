@@ -1,0 +1,4 @@
+/* Customizations to Bootstrap's default CSS */
+.navbar-inverse .navbar-brand {
+	color: #ffffff;
+}
